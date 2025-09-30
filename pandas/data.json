@@ -1,0 +1,18 @@
+{
+    "Students":{
+        "0": "Denis",
+        "1": "John",
+        "2": "Amos",
+        "3": "Alvin",
+        "4": "Titus",
+        "5": "Gideon"
+    }, 
+    "Teachers": {
+        "0": "Amos",
+        "1": "Cheruyot",
+        "2": "Chirchir",
+        "3": "Kibet",
+        "4": "Langat",
+        "5": "Kirui"
+    }
+}
