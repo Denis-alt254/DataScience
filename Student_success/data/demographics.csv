@@ -1,0 +1,8 @@
+### 📁 Sample Data: `demographics.csv`
+
+| student_id | age | gender | location_region | ses_bracket | scholarship_amount | tuition_balance | needs_support |
+|------------|-----|--------|------------------|-------------|---------------------|------------------|----------------|
+| 1001       | 19  | Male   | Central           | High        | 2000                | 500              | 0              |
+| 1002       | 21  | Female | Coast             | Low         | 500                 | 1500             | 1              |
+| 1003       | 20  | Male   | Rift Valley       | Medium      | 1000                | 800              | 0              |
+

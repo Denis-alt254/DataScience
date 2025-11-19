@@ -1,0 +1,8 @@
+### 📁 Sample Data: `enrollment.csv`
+
+| student_id | enrolled | application_date | enrollment_date | program_applied | application_lead_days |
+|------------|----------|------------------|------------------|------------------|------------------------|
+| 1001       | 1        | 2022-05-01        | 2022-08-15        | Engineering       | 106                    |
+| 1002       | 0        | 2022-06-10        |                  | Arts              | 0                      |
+| 1003       | 1        | 2022-04-20        | 2022-09-01        | Business          | 134                    |
+

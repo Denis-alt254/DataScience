@@ -1,0 +1,7 @@
+### 📁 Sample Data: `academics.csv`
+
+| student_id | hs_gpa | standardized_score | current_gpa | credits_completed | courses_failed | attendance_rate | support_sessions_attended |
+|------------|--------|--------------------|-------------|-------------------|----------------|------------------|----------------------------|
+| 1001       | 3.8    | 1250               | 3.4         | 45                | 2              | 0.92             | 1                          |
+| 1002       | 3.2    | 1100               | 2.5         | 30                | 5              | 0.75             | 3                          |
+| 1003       | 3.5    | 1180               | 3.6         | 60                | 1              | 0.95             | 0                          |
